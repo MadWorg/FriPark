@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FriPark</string>
+    <string name="oddaj">Give parking spot</string>
+    <string name="isci">Find parking spot</string>
+    <string name="title_activity_search_map">Map</string>
+    <string name="uporabi_mojo_lokacijo">Kje sem?</string>
+    <string name="ustvari_oznako">Create marker</string>
+    <string name="kdaj_odidete">When are you departing?</string>
+    <string name="myLoc">Use my location</string>
+    <string name="location">TextView</string>
+    <string name="markerExp">TextView</string>
+    <string name="rezerviraj">Rezerviraj</string>
+    <string name="closePop">X</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login">Login</string>
+    <string name="password">Password</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="go">Go</string>
+    <string name="don_t_have_an_account_yet">Don\'t have an account yet?</string>
+    <string name="register"><u>Register</u></string>
+    <string name="todo">TODO</string>
+    <string name="mainlogo">mainLogo</string>
+    <string name="welcome">Welcome to <span style="color:#E12A26">Fri</span>Park!</string>
+</resources>
